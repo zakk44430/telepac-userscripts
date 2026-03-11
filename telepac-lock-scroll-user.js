@@ -5,6 +5,8 @@
 // @description  Prevent Telepac interface from scrolling down
 // @author       zakk44
 // @match        https://isis.telepac.agriculture.gouv.fr/telepac/prg/rpg/*
+// downlowadURL  https://raw.githubusercontent.com/zakk44430/telepac-userscripts/refs/heads/main/telepac-lock-scroll-user.js
+// updateURL     https://raw.githubusercontent.com/zakk44430/telepac-userscripts/refs/heads/main/telepac-lock-scroll-user.js
 // @grant        none
 // ==/UserScript==
 
